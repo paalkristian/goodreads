@@ -9,3 +9,7 @@ A personal archive for good articles, blog posts, conference talks and similar c
 # General software development
 
 * [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+
+# Workflow
+
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
