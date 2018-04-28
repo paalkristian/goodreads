@@ -10,6 +10,9 @@ A personal archive for good articles, blog posts, conference talks and similar c
 
 * [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 
+# Process
+* [Agile is dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+
 # Workflow
 
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
