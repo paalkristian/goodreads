@@ -16,3 +16,6 @@ A personal archive for good articles, blog posts, conference talks and similar c
 # Workflow
 
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+# Learning
+* [How do we learn - a zine](https://blog.ncase.me/how-do-we-learn-a-zine/)
