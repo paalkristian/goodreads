@@ -12,6 +12,7 @@ A personal archive for good articles, blog posts, conference talks and similar c
 
 # Process
 * [Agile is dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+* [Knightmare: A DevOps Cautionary Tale](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - On why you should automate deployment
 
 # Workflow
 
