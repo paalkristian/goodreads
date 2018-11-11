@@ -28,6 +28,8 @@ A personal archive for good articles, blog posts, conference talks and similar c
 - [Knightmare: A DevOps Cautionary Tale](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - On why you should automate deployment
 
 # Web
+## Web performance 
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [Web performance advice - 2018](https://www.keycdn.com/blog/web-performance-advice-2018/)
 ## Frontend
 - [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f?fbclid=IwAR2rCQxoB7Xy0LvU0Grn_BNKubIKlZRnSOAv7WiKE7bhflw-ovLV9bB8Epc)
