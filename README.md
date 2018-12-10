@@ -6,13 +6,10 @@ A personal archive for good articles, blog posts, conference talks and similar c
 
 - [City Street Orientations around the world](https://geoffboeing.com/2018/07/city-street-orientations-world/)
 
-# General software development
-
-- [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
-
 # General tech
-
+- [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+
 
 # Learning
 - [How do we learn - a zine](https://blog.ncase.me/how-do-we-learn-a-zine/)
