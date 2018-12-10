@@ -27,6 +27,8 @@ A personal archive for good articles, blog posts, conference talks and similar c
 - [Knightmare: A DevOps Cautionary Tale](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - On why you should automate deployment
 
 # Web
+## CSS
+- [CSS Animations 101](https://cssanimation.rocks/css-animation-101/)
 ## Frontend
 - [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f?fbclid=IwAR2rCQxoB7Xy0LvU0Grn_BNKubIKlZRnSOAv7WiKE7bhflw-ovLV9bB8Epc)
 - [What makes someone a good front-end developer?](https://gomakethings.com/what-makes-someone-a-good-front-end-developer/?utm_source=CSS-Weekly&utm_campaign=Issue-342&utm_medium=email)
