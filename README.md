@@ -2,6 +2,9 @@
 
 A personal archive for good articles, blog posts, conference talks and similar content, worth consuming again. Inspired by [awesome](https://github.com/sindresorhus/awesome)
 
+# Creative Programming
+- [Shadergif - art made with code](https://shadergif.com/feed)
+
 # Data visualization
 
 - [City Street Orientations around the world](https://geoffboeing.com/2018/07/city-street-orientations-world/)
