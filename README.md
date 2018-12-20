@@ -12,7 +12,7 @@ A personal archive for good articles, blog posts, conference talks and similar c
 # General tech
 - [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
-
+- [They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff)
 
 # Learning
 - [How do we learn - a zine](https://blog.ncase.me/how-do-we-learn-a-zine/)
