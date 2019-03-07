@@ -13,6 +13,7 @@ A personal archive for good articles, blog posts, conference talks and similar c
 - [A taxonomy of tech debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 - [They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff)
+- [The Importance of Writing For Software Developers](https://benmccormick.org/2019/03/02/the-importance-of-writing)
 
 # Learning
 - [How do we learn - a zine](https://blog.ncase.me/how-do-we-learn-a-zine/)
