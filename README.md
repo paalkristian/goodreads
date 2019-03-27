@@ -2,6 +2,9 @@
 
 A personal archive for good articles, blog posts, conference talks and similar content, worth consuming again. Inspired by [awesome](https://github.com/sindresorhus/awesome)
 
+# Other
+- [How to come up with conference proposal ideas](https://lucybain.com/blog/2016/conference-proposal-ideas/)
+
 # Creative Programming
 - [Shadergif - art made with code](https://shadergif.com/feed)
 
