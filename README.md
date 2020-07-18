@@ -20,6 +20,7 @@ A personal archive for good articles, blog posts, conference talks and similar c
 
 # Learning
 - [How do we learn - a zine](https://blog.ncase.me/how-do-we-learn-a-zine/)
+- [Expert beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 
 # Security
 
